@@ -1,5 +1,5 @@
 def using_push(array,string)
-  array.concat(string)
+  array.push(string)
 end
 
 
